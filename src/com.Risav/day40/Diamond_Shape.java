@@ -1,4 +1,4 @@
-package com.Rahul.day40;
+package com.Risav.day40;
 import java.util.Scanner;
 public class Diamond_Shape {
     public static void main(String[] args) {

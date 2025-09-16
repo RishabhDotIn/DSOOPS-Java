@@ -1,4 +1,4 @@
-package com.Rahul.day39;
+package com.Risav.day39;
 
 public class OddNumbers1to30 {
     public static void main(String[] args) {

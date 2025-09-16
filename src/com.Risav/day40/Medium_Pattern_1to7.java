@@ -1,4 +1,4 @@
-package com.Rahul.day40;
+package com.Risav.day40;
 
 public class Medium_Pattern_1to7 {
     public static void main(String[] args) {

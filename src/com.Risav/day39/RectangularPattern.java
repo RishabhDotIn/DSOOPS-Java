@@ -1,4 +1,4 @@
-package com.Rahul.day39;
+package com.Risav.day39;
 import java.util.Scanner;
 public class RectangularPattern {
     public static void main(String[] args) {
