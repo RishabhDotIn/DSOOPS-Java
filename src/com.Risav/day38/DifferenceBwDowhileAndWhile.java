@@ -1,4 +1,4 @@
-package com.Rahul.day38;
+package com.Risav.day38;
 
 //Explain the difference between while and do-while loops with code
 //examples.

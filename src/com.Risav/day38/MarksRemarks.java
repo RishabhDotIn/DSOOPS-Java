@@ -1,4 +1,4 @@
-package com.Rahul.day38;
+package com.Risav.day38;
 
 import java.util.Scanner;
 

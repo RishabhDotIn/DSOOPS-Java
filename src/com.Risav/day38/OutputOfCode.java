@@ -1,4 +1,4 @@
-package com.Rahul.day38;
+package com.Risav.day38;
 
 //What is the output of the following loop:
 
